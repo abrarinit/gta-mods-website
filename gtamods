@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REAPSxALEX - Best GTA V Mods</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #121212;
+            color: white;
+        }
+        header {
+            background: url('background-image.jpg') no-repeat center center/cover;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        header a {
+            text-decoration: none;
+            background-color: #1e90ff;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        header a:hover {
+            background-color: #4682b4;
+        }
+        nav {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 1rem;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        section {
+            padding: 4rem 2rem;
+            text-align: center;
+        }
+        section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        section p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+        }
+        section a {
+            text-decoration: none;
+            background-color: #1e90ff;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        footer {
+            background-color: #000;
+            text-align: center;
+            padding: 1rem;
+        }
+        footer p {
+            margin: 0;
+        }
+        footer .social-icons {
+            margin-top: 1rem;
+        }
+        footer .social-icons a {
+            margin: 0 0.5rem;
+            color: white;
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GET GTA V MODS</h1>
+        <p>Experience the GTA mods without getting banned.</p>
+        <a href="#contact">TEXT NOW</a>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#packages">Packages</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="packages">
+        <h2>GTA MOD PRICE</h2>
+        <p>Find the perfect mod package to suit your interests and budget.</p>
+        <a href="#">VIEW PACKAGES</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024. All Rights Reserved.</p>
+        <div class="social-icons">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+        </div>
+    </footer>
+</body>
+</html>
